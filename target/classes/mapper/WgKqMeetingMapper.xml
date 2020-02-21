@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dhc.happ.demo.mapper.WgKqMeetingMapper">
+  <resultMap id="BaseResultMap" type="com.dhc.happ.demo.model.WgKqMeeting">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <result column="PID" jdbcType="VARCHAR" property="pid" />
+    <result column="USERID" jdbcType="VARCHAR" property="userid" />
+    <result column="USERNAME" jdbcType="VARCHAR" property="username" />
+    <result column="BEGINTIME" jdbcType="TIMESTAMP" property="begintime" />
+    <result column="ENDTIME" jdbcType="TIMESTAMP" property="endtime" />
+    <result column="DAYS" jdbcType="DECIMAL" property="days" />
+    <result column="TYPE" jdbcType="VARCHAR" property="type" />
+    <result column="ORGANIZER" jdbcType="VARCHAR" property="organizer" />
+    <result column="ADDRESS" jdbcType="VARCHAR" property="address" />
+    <result column="REASON" jdbcType="VARCHAR" property="reason" />
+    <result column="STATUS" jdbcType="VARCHAR" property="status" />
+    <result column="FLOWSTATUS" jdbcType="VARCHAR" property="flowstatus" />
+    <result column="CREATER" jdbcType="VARCHAR" property="creater" />
+    <result column="CREATETIME" jdbcType="TIMESTAMP" property="createtime" />
+    <result column="LASTMODIFIER" jdbcType="VARCHAR" property="lastmodifier" />
+    <result column="LASTMODIFYTIME" jdbcType="TIMESTAMP" property="lastmodifytime" />
+    <result column="BASESN" jdbcType="VARCHAR" property="basesn" />
+    <result column="DEPNAME" jdbcType="VARCHAR" property="depname" />
+    <result column="GROUPNAME" jdbcType="VARCHAR" property="groupname" />
+  </resultMap>
+</mapper>

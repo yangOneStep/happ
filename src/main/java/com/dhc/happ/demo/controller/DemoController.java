@@ -12,7 +12,7 @@ public class DemoController {
 
     @RequestMapping("/index")
     public String index (Model model) {
-        model.addAttribute("data", "恭喜，Spring boot集成 Thymeleaf成sssse5555tets！");
+        model.addAttribute("data", "恭喜你，Spring boot集成 Thymeleaf成sssse5555tets！");
         //return 中就是你页面的名字（不带.html后缀）
         return "demo/index";
     }

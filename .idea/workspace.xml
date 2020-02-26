@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97545561-63d4-4c4a-845a-071390763059" name="Default Changelist" comment="version 1.1">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="97545561-63d4-4c4a-845a-071390763059" name="Default Changelist" comment="version 1.2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -126,7 +127,7 @@
       <workItem from="1582106260861" duration="343000" />
       <workItem from="1582106620841" duration="86000" />
       <workItem from="1582266288019" duration="8712000" />
-      <workItem from="1582701355344" duration="1592000" />
+      <workItem from="1582701355344" duration="3134000" />
     </task>
     <task id="LOCAL-00001" summary="version 1.1">
       <created>1582279108675</created>
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582702309872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version 1.2">
+      <created>1582702989768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582702989768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,17 +200,22 @@
     </ignored-roots>
     <MESSAGE value="version 1.0" />
     <MESSAGE value="version 1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.1" />
+    <MESSAGE value="version 1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1581426325416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581426325416" />
-    <state x="176" y="7" key="CommitChangelistDialog2" timestamp="1582702318167">
+    <state x="176" y="7" key="CommitChangelistDialog2" timestamp="1582703391014">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="176" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582702318167" />
+    <state x="176" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582703391014" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582703827845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582703827845" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582702654879">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -271,14 +284,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="78" key="Registry/0.0.1536.824@0.0.1536.824" timestamp="1581326945322" />
-    <state x="272" y="0" key="SettingsEditor" timestamp="1582702851667">
+    <state x="272" y="0" key="SettingsEditor" timestamp="1582704708556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582702851667" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1582702349698">
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582704708556" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1582703537416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582702349698" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582703537416" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582276630201">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -291,6 +304,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="125" y="113" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1581424961644" />
+    <state x="564" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582703397352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1582703397352" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1582702400593">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

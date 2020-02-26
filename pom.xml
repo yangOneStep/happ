@@ -85,7 +85,7 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
-    <!--插件-->
+    <!--插件  -->
     <build>
         <plugins>
             <plugin>
